@@ -18,7 +18,7 @@ The application utilizes the provider package for state management, ensuring an 
 ## Screenshots
 
 <img src="assets/screenshots/Screenshot_1689878777.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878803.png"  width="300" height="800">
-<img src="assets/screenshots/Screenshot_1689878803.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878793.png"  width="300" height="800">
+<img src="assets/screenshots/Screenshot_1689878793.png"  width="300" height="800">
 <img src="assets/screenshots/Screenshot_1689878825.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878832.png"  width="300" height="800">
 <img src="assets/screenshots/Screenshot_1689878833.png"  width="300" height="800">
 
