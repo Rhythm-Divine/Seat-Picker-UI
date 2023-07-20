@@ -17,12 +17,10 @@ The application utilizes the provider package for state management, ensuring an 
 
 ## Screenshots
 
-<img src="assets/screenshots/Screenshot_1689878777.png"  width="500" height="800"><img src="assets/screenshots/Screenshot_1689878803.png"  width="500" height="800">
-![Light Theme Image](assets/screenshots/Screenshot_1689878803.png)
-![Light Theme Image](assets/screenshots/Screenshot_1689878793.png)
-![Light Theme Image](assets/screenshots/Screenshot_1689878825.png)
-![Light Theme Image](assets/screenshots/Screenshot_1689878832.png)
-![Light Theme Image](assets/screenshots/Screenshot_1689878833.png)
+<img src="assets/screenshots/Screenshot_1689878777.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878803.png"  width="300" height="800">
+<img src="assets/screenshots/Screenshot_1689878803.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878793.png"  width="300" height="800">
+<img src="assets/screenshots/Screenshot_1689878825.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878832.png"  width="300" height="800">
+<img src="assets/screenshots/Screenshot_1689878833.png"  width="300" height="800">
 
 ## Features
 - Seat Picking page with an intuitive UI for selecting seats in a train cabin.
