@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - Description
+- Screen Recording
 - Screenshots
 - Features
 - Technologies
@@ -14,6 +15,10 @@
 Welcome to the Seat Picker UI Application, a Flutter-based application developed as a technical assignment for the Flutter Intern position at CRUV. This app aims to provide a user-friendly interface for selecting seats in a train cabin and displaying the selected seats in a confirmation page.
 
 The application utilizes the provider package for state management, ensuring an efficient and scalable approach to handling the application's state. With a responsive design achieved through flutter_screenutil, the app seamlessly adapts to different screen sizes and orientations.
+
+## Screen Recording
+
+<img src="assets/video/CRUV intern app.mp4"  width="400" height="1000">
 
 ## Screenshots
 
