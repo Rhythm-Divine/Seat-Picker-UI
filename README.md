@@ -18,7 +18,7 @@ The application utilizes the provider package for state management, ensuring an 
 
 ## Screen Recording
 
-<img src="assets/video/CRUV screen recording"  width="400" height="1000">
+<img src="assets/video/CRUV screen recording.mp4"  width="400" height="1000">
 
 ## Screenshots
 
