@@ -18,11 +18,7 @@ The application utilizes the provider package for state management, ensuring an 
 
 ## Screen Recording
 
-
 https://github.com/Rhythm-Divine/Seat-Picker-UI/assets/81385160/9615996c-51a8-4d33-b1fb-644621086f5a
-
-
-<img src="assets/video/CRUV screen recording.mp4"  width="400" height="1000">
 
 ## Screenshots
 
