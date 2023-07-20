@@ -22,10 +22,10 @@ https://github.com/Rhythm-Divine/Seat-Picker-UI/assets/81385160/9615996c-51a8-4d
 
 ## Screenshots
 
-<img src="assets/screenshots/Screenshot_1689878777.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878803.png"  width="300" height="800">
-<img src="assets/screenshots/Screenshot_1689878793.png"  width="300" height="800">
-<img src="assets/screenshots/Screenshot_1689878825.png"  width="300" height="800"> <img src="assets/screenshots/Screenshot_1689878832.png"  width="300" height="800">
-<img src="assets/screenshots/Screenshot_1689878833.png"  width="300" height="800">
+<img src="assets/screenshots/Screenshot_1689878777.png"  width="400" height="800"> <img src="assets/screenshots/Screenshot_1689878803.png"  width="400" height="800">
+<img src="assets/screenshots/Screenshot_1689878793.png"  width="400" height="800">
+<img src="assets/screenshots/Screenshot_1689878825.png"  width="400" height="800"> <img src="assets/screenshots/Screenshot_1689878832.png"  width="400" height="800">
+<img src="assets/screenshots/Screenshot_1689878833.png"  width="400" height="800">
 
 ## Features
 - Seat Picking page with an intuitive UI for selecting seats in a train cabin.
