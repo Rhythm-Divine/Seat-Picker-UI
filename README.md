@@ -16,7 +16,8 @@ Welcome to the Seat Picker UI Application, a Flutter-based application developed
 The application utilizes the provider package for state management, ensuring an efficient and scalable approach to handling the application's state. With a responsive design achieved through flutter_screenutil, the app seamlessly adapts to different screen sizes and orientations.
 
 ## Screenshots
-![Light Theme Image](assets/screenshots/Screenshot_1689878777.png | width=100)
+![Light Theme Image](assets/screenshots/Screenshot_1689878777.png | width=100)\
+<img src="assets/screenshots/Screenshot_1689878777.png"  width="400" height="600">
 ![Light Theme Image](assets/screenshots/Screenshot_1689878803.png)
 ![Light Theme Image](assets/screenshots/Screenshot_1689878793.png)
 ![Light Theme Image](assets/screenshots/Screenshot_1689878825.png)
